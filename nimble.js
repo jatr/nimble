@@ -227,4 +227,4 @@
         });
     };
 
-}(typeof exports === 'undefined' ? this._ = this._ || {}: exports));
+}(typeof exports === 'undefined' ? this.nimble = this.nimble || {}: exports));
